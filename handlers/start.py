@@ -13,18 +13,14 @@ async def start_(client: Client, message: Message):
         photo=f"{START_IMG}",
         caption=f""" ** Hey {message.from_user.mention()} , ⚔️\n\n
 ๏ This is [{bn}](t.me/{bu})
-➻ 👑Official Account🖤
-💟Wish Me On 15 August 🎂
-⚡My Life My Rules💪
-🎶Music ka Diwana💥
-🕉️Mahadev Bhakt🕉️
-♍I’m not Rich ßut I’m Royal 👑
-🌹Loyal and trustable Boy👩‍❤️‍👨
-☺️My Freinds are my World 💗.
+➻ OFFICAL ACCOUNT❤️
+WISH ME ON 25 NOV🎂 
+MY LIFE MY RULES⚡️
+A POWER FULL MUSIC BOT🌈.
 
 ──────────────────
 ๏  All of my command can be used with My command handle : ( / . • $ ^ ~ + * ? )
-➻ Made 🫶🏻 by : [𝙈𝙊𝙊𝙉𝙎𝙃𝙄𝙉𝙀❤️‍🔥](https://t.me/MT_LEXTUS_XD) ** """,
+➻ Made 🫶🏻 by : [𝐂𝐀𝐍𝐃𝐘 𝐆𝐈𝐑𝐋❤️‍🔥](https://t.me/CANDYGIRLHU) ** """,
     reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -40,10 +36,10 @@ async def start_(client: Client, message: Message):
                     )
                   ],[
                     InlineKeyboardButton(
-                        "👤 Real Owner ", url=f"https://t.me/MT_LEXTUS_XD"
+                        "👤 Real Owner ", url=f"https://t.me/CANDYGIRLHU"
                     ),
                     InlineKeyboardButton(
-                        "👨‍💻 Developer ", url=f"https://t.me/MT_LEXTUS_XD"
+                        "👨‍💻 Developer ", url=f"https://t.me/CANDYGIRLHU"
                     ),
                   ],[
                     InlineKeyboardButton(
