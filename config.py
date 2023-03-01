@@ -5,8 +5,8 @@ load_dotenv()
 que = {}
 admins = {}
 
-API_ID = int(getenv("API_ID", "14029829"))
-API_HASH = getenv("API_HASH", "9643981b3fdc7c4c142481467274ad19")
+API_ID = int(getenv("API_ID", "25065069"))
+API_HASH = getenv("API_HASH", "aa7a37a15bffefa002ff0c79ccd7c74c")
 BOT_TOKEN = getenv("BOT_TOKEN", "5983114890:AAG4123PBFdSgmK8KXA4N8DI6efWx56vYTo")
 BOT_NAME = getenv("BOT_NAME","𝙈𝙊𝙊𝙉𝙎𝙃𝙄𝙉𝙀 𝙓 𝙈𝙐𝙎𝙄𝘾")
 BOT_USERNAME = getenv("BOT_USERNAME", "@MOON_X_MUSIC_BOT")
