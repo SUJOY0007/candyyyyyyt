@@ -4,7 +4,7 @@
   "logo": "https://telegra.ph//file/c5bcab6a5f6880cf3c739.jpg",
   "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/SUJOY0007/Moon-X-Music",
+  "repository": "https://github.com/SUJOY0007/candyyyyyyt",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
